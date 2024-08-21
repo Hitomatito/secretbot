@@ -1,6 +1,6 @@
-# Bot de Telegram para Restaurante
+# Bot de Telegram para Hotel
 
-Este es un bot de Telegram diseñado para proporcionar información sobre un restaurante. Los comandos disponibles incluyen:
+Este es un bot de Telegram diseñado para proporcionar información sobre un hotel. Los comandos disponibles incluyen:
 
 - `/start`: Mensaje de bienvenida.
 - `/menu`: Muestra el menú del restaurante.
