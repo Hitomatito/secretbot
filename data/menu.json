@@ -1,0 +1,26 @@
+{
+    "BIENVENIDO": [
+        {
+            "name": "HABITACIONES",
+            "description": "Matrimoniales , Simples, Dobles,Triples, Hostel",
+            "price": "S/.150.00, S/.100.00, S/.300.00, S/.500.00, S/.50.00"
+        },
+        {
+            "name": "OFRECEMOS DESAYUNOS",
+            "description": "Desayuno Continental, Desayuno Bufffet, Desayuno Americano, Desayuno ingles",
+            "price": "PRECIOS VARIADOS"
+        }
+    ],
+    "Habitaciones Principales": [
+        {
+            "name": "HABITACION SUITE",
+            "description": "La habitacion suite , amoblada, con cocina y otros complementos, TV 96.in lavadora",
+            "price": "PROMOCION DEL 30% SI MUESTRAS ESTE CODIGO EN RECEPCION (SECRETO)"
+        },
+        {
+            "name": "COCHERA 24 HORAS",
+            "description": "GUARDA CON SEGURIDAD TU MOVILIDAD",
+            "price": "NO INCLUIDO EN EL PRECIO DE HABITACON, 'SOLO EN LA SUIT'."
+        }
+    ]
+}
